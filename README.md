@@ -10,6 +10,5 @@ The purpose of this Portfolio was to create a place to show off my developing sk
  ## Website
  https://jholtzclaw.github.io/portfolio-jenah/.
 
- ## Screenshot
  
-  ![Overview of Password Generator](/assets/images/)
+ 
